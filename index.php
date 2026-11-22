@@ -9,7 +9,7 @@ $time    = date('Y-m-d H:i:s T');
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GDG Pune | OpenShift PHP Demo</title>
+    <title>GDG Pune | OpenShift PHP Demo version 2.0 </title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
